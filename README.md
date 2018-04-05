@@ -1,3 +1,5 @@
+![Scanner-Cam-App](Scanner-Cam.jpg)
+
 # Scanner-Cam
 Retro-Scanner-Cam-App based on JavaScript und [p5.js](https://p5js.org) <br>
 Inspired by Stefan Mildenbergers [“Smart Scab Lab: Thoughts on moving Images”](http://www.stefanmildenberger.de/?page_id=51) <br>
